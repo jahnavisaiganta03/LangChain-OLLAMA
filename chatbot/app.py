@@ -15,7 +15,7 @@ os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 # Langsmith Tracking
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
-os.environ["SERPAPI_API_KEY"]= "e1c3a53b813485490ef4daea3b35406de134e328b2db2ce511c53cad83e7bb38"
+os.environ["SERPAPI_API_KEY"]= 
  
 ## Prompt template
 

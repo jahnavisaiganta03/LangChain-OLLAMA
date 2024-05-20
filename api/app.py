@@ -12,7 +12,7 @@ from langchain_community.utilities import SerpAPIWrapper
 load_dotenv()
 
 os.environ['OPENAI_API_KEY']=os.getenv("OPENAI_API_KEY")
-os.environ["SERPAPI_API_KEY"]= "e1c3a53b813485490ef4daea3b35406de134e328b2db2ce511c53cad83e7bb38"
+os.environ["SERPAPI_API_KEY"]= 
 
 app=FastAPI(
     title="Langchain Server",

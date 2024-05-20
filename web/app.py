@@ -14,9 +14,9 @@ import time
 
 from dotenv import load_dotenv
 load_dotenv()
-os.environ["OPENAI_API_KEY"] = "sk-proj-x6o7LMPWcOztFmMSCETXT3BlbkFJ2vgnwkma5qPnXgPu9KF0"
+os.environ["OPENAI_API_KEY"] = ""
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = ""
 
 
 
